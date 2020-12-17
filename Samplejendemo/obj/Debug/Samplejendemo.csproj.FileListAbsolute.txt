@@ -1,0 +1,6 @@
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\bin\Debug\Samplejendemo.exe.config
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\bin\Debug\Samplejendemo.exe
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\bin\Debug\Samplejendemo.pdb
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\obj\Debug\Samplejendemo.csproj.CoreCompileInputs.cache
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\obj\Debug\Samplejendemo.exe
+C:\Users\Sai Ram Reddy\Documents\NEWREPO\Samplejenkins\Samplejendemo\obj\Debug\Samplejendemo.pdb
